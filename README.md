@@ -4,9 +4,9 @@
 
 - 🤔 Estudando e desenvolvendo meu lado de programador.
 - 🎓 Graduado em Eng. Mecânica e Pos-graduação em gestão da produção e automação industrial.
-- 💼 Trabalhando como **Analista de manutenção** na <a href="[https://www.tiberinagroup.com/]">Tiberina Automotive PE</a>
+- 💼 Trabalhando como **Analista de manutenção** na <a href="https://www.tiberinagroup.com/">Tiberina Automotive PE</a>
 - 🌱 Estudando Python e Java.
-- 💬 Ultimo projeto que trabalhei <a href="[https://github.com/NExT-2023-1/t03-comparacao-de-imagens]">Comparação de imagem</a> utilizando Java e Spring boot no desenvolvimento de uma API de reconhacimento de imagem.
+- 💬 Ultimo projeto que trabalhei <a href="https://github.com/NExT-2023-1/t03-comparacao-de-imagens">Comparação de imagem</a> utilizando Java e Spring boot no desenvolvimento de uma API de reconhacimento de imagem.
 
 <h3>Minhas Skills</h3>
 
@@ -39,5 +39,5 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=engvitorcavalcanti)](https://www.linkedin.com/in/engvitorcavalcanti/)
+[![Linkedin](https://img.shields.io/badge/-engvitorcavalcanti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=engvitorcavalcanti)](https://www.linkedin.com/in/engvitorcavalcanti/)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/VitorCav)
